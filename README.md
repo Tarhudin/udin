@@ -1,0 +1,2 @@
+# udin
+UAS Kecerdasan Buatan
